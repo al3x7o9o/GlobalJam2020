@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: 8fd509bf266014b42ba631f2d1e32918
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5816642994671486895
+    second: portal_0
+  - first:
+      213: 2720290072527178061
+    second: portal_1
+  - first:
+      213: -68809774801260167
+    second: portal_2
+  - first:
+      213: -4604820735629425415
+    second: portal_3
+  - first:
+      213: -6538954407832343249
+    second: portal_4
+  - first:
+      213: 7305771432161720801
+    second: portal_5
+  - first:
+      213: 6485356823907138318
+    second: portal_6
+  - first:
+      213: -1369078418111764407
+    second: portal_7
+  - first:
+      213: -5259029107282984620
+    second: portal_8
+  - first:
+      213: -3465161401354618432
+    second: portal_9
+  - first:
+      213: -3142282842932432680
+    second: portal_10
+  - first:
+      213: -2752164304205098937
+    second: portal_11
+  - first:
+      213: -6197552279534655991
+    second: portal_12
+  - first:
+      213: -6891787091303663701
+    second: portal_13
+  - first:
+      213: 6254885828516898367
+    second: portal_14
+  - first:
+      213: 4289526287408063560
+    second: portal_15
+  - first:
+      213: -7872368518777113347
+    second: portal_16
+  - first:
+      213: 5982004341153625043
+    second: portal_17
+  - first:
+      213: 5761590866181317772
+    second: portal_18
+  - first:
+      213: 6761846517699090533
+    second: portal_19
+  - first:
+      213: -4564995282794687626
+    second: portal_20
+  - first:
+      213: 4556539044645045482
+    second: portal_21
+  - first:
+      213: -964237697247841496
+    second: portal_22
+  - first:
+      213: 7105731126955614146
+    second: portal_23
+  - first:
+      213: 110412659064575055
+    second: portal_24
+  - first:
+      213: 5488354069480031224
+    second: portal_25
+  - first:
+      213: 3141109237652767854
+    second: portal_26
+  - first:
+      213: -4587924070003593828
+    second: portal_27
+  - first:
+      213: -4309170675082696740
+    second: portal_28
+  - first:
+      213: -8276187910298641390
+    second: portal_29
+  - first:
+      213: 7215495733020166267
+    second: portal_30
+  - first:
+      213: -2233781543957371108
+    second: portal_31
+  - first:
+      213: 2770750186553321371
+    second: portal_32
+  - first:
+      213: 3519683660889738706
+    second: portal_33
+  - first:
+      213: -6715382103667367712
+    second: portal_34
+  - first:
+      213: 3645392148404397502
+    second: portal_35
+  - first:
+      213: 5749715998837705422
+    second: portal_36
+  - first:
+      213: -2723230416233978482
+    second: portal_37
+  - first:
+      213: 3164100806476118542
+    second: portal_38
+  - first:
+      213: -698289328149983298
+    second: portal_39
+  - first:
+      213: -5087618544204744508
+    second: portal_40
+  - first:
+      213: 8584300926429160847
+    second: portal_41
+  - first:
+      213: 1379200426827903160
+    second: portal_42
+  - first:
+      213: 4842355871279700921
+    second: portal_43
+  - first:
+      213: -2176159710935475862
+    second: portal_44
+  - first:
+      213: 8001834983118549767
+    second: portal_45
+  - first:
+      213: 2571751889513973633
+    second: portal_46
+  - first:
+      213: -7794944827919970231
+    second: portal_47
+  - first:
+      213: 7759636044423142395
+    second: portal_48
+  - first:
+      213: 7939254286272668390
+    second: portal_49
+  - first:
+      213: -2085746944696515320
+    second: portal_50
+  - first:
+      213: 7703005489381299797
+    second: portal_51
+  - first:
+      213: 7452554248988469141
+    second: portal_52
+  - first:
+      213: 934112985132118732
+    second: portal_53
+  - first:
+      213: -2586251550406295489
+    second: portal_54
+  - first:
+      213: 1167062533270209217
+    second: portal_55
+  - first:
+      213: 6680923215408100430
+    second: portal_56
+  - first:
+      213: -1056450160212693399
+    second: portal_57
+  - first:
+      213: -4766009805356734748
+    second: portal_58
+  - first:
+      213: -6918823024194252371
+    second: portal_59
+  - first:
+      213: 3167787589147731774
+    second: portal_60
+  - first:
+      213: 8226130112231727985
+    second: portal_61
+  - first:
+      213: 184974954339713035
+    second: portal_62
+  - first:
+      213: 7774571111090673986
+    second: portal_63
+  - first:
+      213: 2795206916460115229
+    second: portal_64
+  - first:
+      213: 8719467166088415901
+    second: portal_65
+  - first:
+      213: 2695070970683640558
+    second: portal_66
+  - first:
+      213: 7146750567720109334
+    second: portal_67
+  - first:
+      213: 6284864720726632991
+    second: portal_68
+  - first:
+      213: -1872212886014595133
+    second: portal_69
+  - first:
+      213: -2302733095568086464
+    second: portal_70
+  - first:
+      213: 1180440768427695045
+    second: portal_71
+  - first:
+      213: 5282230492620364387
+    second: portal_72
+  - first:
+      213: -1873113059624371028
+    second: portal_73
+  - first:
+      213: 6301473507377409790
+    second: portal_74
+  - first:
+      213: -286044827087649856
+    second: portal_75
+  - first:
+      213: 2586258174662432871
+    second: portal_76
+  - first:
+      213: 3648977527777845453
+    second: portal_77
+  - first:
+      213: -1542720363980372871
+    second: portal_78
+  - first:
+      213: 7667591310763057315
+    second: portal_79
+  - first:
+      213: 5709900553040914720
+    second: portal_80
+  - first:
+      213: -2812211146533985910
+    second: portal_81
+  - first:
+      213: -1619137738009640727
+    second: portal_82
+  - first:
+      213: -6312096378661762931
+    second: portal_83
+  - first:
+      213: -2705243008020937680
+    second: portal_84
+  - first:
+      213: 7469234505642928897
+    second: portal_85
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: portal_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 113
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48773fc983bd63e4b92b60f675dedae6
+      internalID: -5816642994671486895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 358
+        width: 147
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2edcda52d00b7d34cb01aaaa67cd89ba
+      internalID: 2720290072527178061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 316
+        width: 150
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef1baabbeb5d3d4c9dfada665f97363
+      internalID: -68809774801260167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 299
+        width: 161
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8186af37b2c84d84cea78d6ea6966
+      internalID: -4604820735629425415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_4
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 304
+        width: 161
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac83634bdcc2c44f9a2ae26d7f92f74
+      internalID: -6538954407832343249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 22
+        width: 164
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2330181e5bf944392b495b48ba29e3
+      internalID: 7305771432161720801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 22
+        width: 157
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a925e1fbeaf7c9438c28030fb1abdcf
+      internalID: 6485356823907138318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: portal_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 7
+        width: 162
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dd6ef8605e77a4a9894164e7ef4fe5
+      internalID: -1369078418111764407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
