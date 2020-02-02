@@ -9,7 +9,7 @@ public class kingManager : MonoBehaviour
     public GameObject prefab;
     private void OnMouseDown()
     {
-        if (global.gold >= price && global.level >= 7)
+        if (global.gold >= price && global.level >= 6)
         {
             global.gold -= price;
             Instantiate(prefab, new Vector3(1.51f, -4.15f, -0.01f), Quaternion.identity);

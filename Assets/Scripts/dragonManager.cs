@@ -8,7 +8,7 @@ public class dragonManager : MonoBehaviour
     public GameObject prefab;
     private void OnMouseDown()
     {
-        if (global.gold >= price && global.level >= 7)
+        if (global.gold >= price && global.level >= 6)
         {
             global.gold -= price;
             Instantiate(prefab, new Vector3(1.25f, -2.5f, -0.01f), Quaternion.identity);
